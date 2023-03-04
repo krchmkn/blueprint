@@ -1,0 +1,20 @@
+{
+  "name": "blueprint",
+  "version": "1.0.0",
+  "scripts": {
+    "compile": "npx tsc",
+    "factorymethod": "node dist/factoryMethod.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/krchmkn/blueprint.git"
+  },
+  "author": "Dmitrii Korchemkin",
+  "devDependencies": {
+    "typescript": "^4.9.5"
+  },
+  "dependencies": {
+    "@types/uuid": "^9.0.1",
+    "uuid": "^9.0.0"
+  }
+}
