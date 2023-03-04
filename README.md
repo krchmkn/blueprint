@@ -1,3 +1,5 @@
-# Patterns
+# Design patterns
 
-- [Factory Method](src/FactoryMethod.ts)
+- [Factory Method](src/FactoryMethod)
+- [AbstractFactory](src/AbstractFactory)
+-
