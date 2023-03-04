@@ -3,7 +3,8 @@
   "version": "1.0.0",
   "scripts": {
     "compile": "npx tsc",
-    "factorymethod": "node dist/factoryMethod.js"
+    "factorymethod": "node dist/FactoryMethod/factoryMethod.js",
+    "abstractfactory": "node dist/AbstractFactory/abstractFactory.js"
   },
   "repository": {
     "type": "git",
