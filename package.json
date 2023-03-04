@@ -5,7 +5,8 @@
     "compile": "npx tsc",
     "factorymethod": "node dist/FactoryMethod/index.js",
     "abstractfactory": "node dist/AbstractFactory/index.js",
-    "builder": "node dist/Builder/index.js"
+    "builder": "node dist/Builder/index.js",
+    "prototype": "node dist/Prototype/index.js"
   },
   "repository": {
     "type": "git",
