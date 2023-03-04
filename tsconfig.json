@@ -4,14 +4,13 @@
     "strict": true,
     "alwaysStrict": true,
     "noImplicitAny": true,
-    // "noEmitOnError": true,
+    "noEmitOnError": true,
     "removeComments": true,
     "sourceMap": true,
     "lib": ["es6", "dom"],
     "target": "ES5",
     "module": "CommonJS",
     "outDir": "dist"
-    // "outFile": "./dist/script.js",
   },
   "include": ["src/**/*"],
   "exclude": ["node_modules", "**/*.spec.ts"]
