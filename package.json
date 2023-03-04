@@ -14,9 +14,5 @@
   "author": "Dmitrii Korchemkin",
   "devDependencies": {
     "typescript": "^4.9.5"
-  },
-  "dependencies": {
-    "@types/uuid": "^9.0.1",
-    "uuid": "^9.0.0"
   }
 }
