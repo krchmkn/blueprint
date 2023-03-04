@@ -1,10 +1,10 @@
 {
-  "name": "blueprint",
+  "name": "design-patterns",
   "version": "1.0.0",
   "scripts": {
     "compile": "npx tsc",
-    "factorymethod": "node dist/FactoryMethod/factoryMethod.js",
-    "abstractfactory": "node dist/AbstractFactory/abstractFactory.js"
+    "factorymethod": "node dist/FactoryMethod/index.js",
+    "abstractfactory": "node dist/AbstractFactory/index.js"
   },
   "repository": {
     "type": "git",
