@@ -1,6 +1,4 @@
 #!/bin/bash
-YELLOW="\033[0;33m"
-echo -e "${YELLOW}WARNING: This script for macOS only${YELLOW}"
 SRC="src/$1"
 
 mkdir $SRC
