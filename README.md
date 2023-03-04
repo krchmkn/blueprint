@@ -4,3 +4,4 @@
 - [AbstractFactory](src/AbstractFactory/index.ts)
 - [Builder](src/Builder/index.ts)
 - [Prototype](src/Prototype/index.ts)
+- [Singleton](src/Singleton/index.ts)
