@@ -1,5 +1,11 @@
 #!/bin/bash
 SRC="src/$1"
+FILE="$SRC/index.ts"
+
+if test -f "$FILE"; then
+  echo "File $FILE already exists. Exit."
+  exit 1
+fi
 
 mkdir $SRC
 touch "$SRC/index.ts"
