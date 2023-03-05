@@ -10,3 +10,5 @@
 - [Composite](src/Composite/index.ts)
 - [Decorator](src/Decorator/index.ts)
 - [Facade](src/Facade/index.ts)
+- [Flyweight](src/Flyweight/index.ts)
+- [Proxy](src/Proxy/index.ts)
