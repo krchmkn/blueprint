@@ -9,3 +9,4 @@
 - [Bridge](src/Bridge/index.ts)
 - [Composite](src/Composite/index.ts)
 - [Decorator](src/Decorator/index.ts)
+- [Facade](src/Facade/index.ts)
