@@ -8,3 +8,4 @@
 - [Adapter](src/Adapter/index.ts)
 - [Bridge](src/Bridge/index.ts)
 - [Composite](src/Composite/index.ts)
+- [Decorator](src/Decorator/index.ts)
