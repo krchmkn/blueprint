@@ -6,3 +6,4 @@
 - [Prototype](src/Prototype/index.ts)
 - [Singleton](src/Singleton/index.ts)
 - [Adapter](src/Adapter/index.ts)
+- [Bridge](src/Bridge/index.ts)

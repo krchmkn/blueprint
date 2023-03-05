@@ -8,7 +8,7 @@ const expensiveChair = expensiveFactory.createChair()
 const expensiveTable = expensiveFactory.createTable()
 
 console.log('Expensive chair', expensiveChair.material, expensiveChair.upholstery)
-console.log('Expensive table ', expensiveChair.material)
+console.log('Expensive table ', expensiveTable.material)
 
 const cheapChair = cheapFactory.createChair()
 const cheapTable = cheapFactory.createTable()
