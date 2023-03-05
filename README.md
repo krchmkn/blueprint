@@ -7,3 +7,4 @@
 - [Singleton](src/Singleton/index.ts)
 - [Adapter](src/Adapter/index.ts)
 - [Bridge](src/Bridge/index.ts)
+- [Composite](src/Composite/index.ts)
