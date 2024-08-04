@@ -4,10 +4,10 @@ export default class Bridge {
   constructor(protected device: Usable) {}
 
   start(): void {
-    this.device.enable()
+    this.device.enable();
   }
 
   stop(): void {
-    this.device.disable()
+    this.device.disable();
   }
 }

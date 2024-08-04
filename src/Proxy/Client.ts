@@ -4,6 +4,6 @@ export default class Client {
   constructor(private server: Replyable) {}
 
   async request(): Promise<string> {
-    return await this.server.reply()
+    return await this.server.reply();
   }
 }

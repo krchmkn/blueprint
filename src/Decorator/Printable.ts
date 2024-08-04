@@ -1,3 +1,3 @@
 export default interface Printable {
-  print(message: string): void
+  print(message: string): void;
 }

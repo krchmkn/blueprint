@@ -1,3 +1,3 @@
 export default interface ITable {
-  material: string
+  material: string;
 }

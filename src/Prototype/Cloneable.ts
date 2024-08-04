@@ -1,3 +1,3 @@
 export default interface Cloneable {
-  clone(): this
+  clone(): this;
 }

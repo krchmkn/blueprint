@@ -1,7 +1,7 @@
 enum MobsterType {
-  Boss = 'Boss',
-  UnderBoss = 'UnderBoss',
-  Soldier = 'Soldier',
+  Boss = "Boss",
+  UnderBoss = "UnderBoss",
+  Soldier = "Soldier",
 }
 
-export default MobsterType
+export default MobsterType;

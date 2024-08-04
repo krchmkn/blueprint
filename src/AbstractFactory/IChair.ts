@@ -1,4 +1,4 @@
 export default interface IChair {
-  material: string
-  upholstery: string
+  material: string;
+  upholstery: string;
 }

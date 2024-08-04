@@ -4,6 +4,6 @@ import Truck from "./Truck";
 
 export default class RoadCargoCompany extends AbstractCargoCompany {
   createTransport(): ITransport {
-    return new Truck()
+    return new Truck();
   }
 }

@@ -1,7 +1,7 @@
 export default class Client {
-  fullName: string = ''
+  fullName: string = "";
 
   set setFullName(fullName: string) {
-    this.fullName = fullName
+    this.fullName = fullName;
   }
 }

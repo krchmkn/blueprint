@@ -6,10 +6,10 @@ import ITable from "./ITable";
 
 export default class CheapFurnitureFactory implements IFurnitureFactory {
   createChair(): IChair {
-    return new CheapChair('Plywood', 'Textile')
+    return new CheapChair("Plywood", "Textile");
   }
 
   createTable(): ITable {
-    return new CheapTable('Pine board')
+    return new CheapTable("Pine board");
   }
 }

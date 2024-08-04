@@ -1,26 +1,26 @@
-import MobsterType from "./types"
+import MobsterType from "./types";
 
 export default class Mobster {
-  private type: MobsterType
-  private subordinates: Array<Mobster> = []
+  private type: MobsterType;
+  private subordinates: Array<Mobster> = [];
 
   constructor(type: MobsterType) {
-    this.type = type
+    this.type = type;
   }
 
   get getType(): string {
-    return this.type
+    return this.type;
   }
 
   addSubordinate(subordinate: Mobster) {
-    this.subordinates.push(subordinate)
-    return this
+    this.subordinates.push(subordinate);
+    return this;
   }
 
   getSubordinatesTypes(): string[] {
     return this.subordinates.reduce((acc: string[], curr: Mobster) => {
-      acc.push(curr.getType)
-      return acc
-    }, [])
+      acc.push(curr.getType);
+      return acc;
+    }, []);
   }
 }

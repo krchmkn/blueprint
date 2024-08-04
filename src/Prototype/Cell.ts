@@ -1,13 +1,13 @@
 import Cloneable from "./Cloneable";
 
 export default class Cell implements Cloneable {
-  type: string
+  type: string;
 
   constructor(type: string) {
-    this.type = type
+    this.type = type;
   }
 
   clone(): this {
-    return Object.create(this)
+    return Object.create(this);
   }
 }

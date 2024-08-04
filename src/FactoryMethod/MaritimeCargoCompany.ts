@@ -4,6 +4,6 @@ import Ship from "./Ship";
 
 export default class MaritimeCargoCompany extends AbstractCargoCompany {
   createTransport(): ITransport {
-    return new Ship()
+    return new Ship();
   }
 }

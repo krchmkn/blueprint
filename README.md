@@ -12,14 +12,13 @@
 - [Facade](src/Facade/index.ts)
 - [Flyweight](src/Flyweight/index.ts)
 - [Proxy](src/Proxy/index.ts)
-
-- Chain of Responsibility 
-- Command
-- Iterator
-- Intermediary
-- Memento
-- Observer
-- State
-- Strategy
-- Template Method
-- Visitor
+- [Chain of Responsibility](src/Chain/index.ts)
+- [Command](src/Command/index.ts)
+- [Iterator](src/Iterator/index.ts)
+- [Intermediary](src/Intermediary/index.ts)
+- [Memento]<!--(src/Memento/index.ts)-->
+- [Observer]<!--(src/Observer/index.ts)-->
+- [State]<!--(src/State/index.ts)-->
+- [Strategy]<!--(src/Strategy/index.ts)-->
+- [Template Method]<!--(src/Template/index.ts)-->
+- [Visitor]<!--(src/Visitor/index.ts)-->

@@ -4,9 +4,9 @@ export default class Server implements Responsible {
   async reply(): Promise<string> {
     return await new Promise((resolve: Function) => {
       setTimeout(() => {
-        console.log('Server reply')
-        resolve('Hola!')
-      }, 1000)
-    })
+        console.log("Server reply");
+        resolve("Hola!");
+      }, 1000);
+    });
   }
 }

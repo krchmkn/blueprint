@@ -1,3 +1,3 @@
 export default interface ICargo {
-  readonly title: string
+  readonly title: string;
 }
