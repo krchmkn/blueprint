@@ -16,7 +16,7 @@
 - [Command](src/Command/index.ts)
 - [Iterator](src/Iterator/index.ts)
 - [Intermediary](src/Intermediary/index.ts)
-- [Memento]<!--(src/Memento/index.ts)-->
+- [Snapshot](src/Snapshot/index.ts)
 - [Observer]<!--(src/Observer/index.ts)-->
 - [State]<!--(src/State/index.ts)-->
 - [Strategy]<!--(src/Strategy/index.ts)-->
