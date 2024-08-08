@@ -29,4 +29,4 @@
 - [State](src/State/index.ts)
 - [Strategy](src/Strategy/index.ts)
 - [Template Method](src/Template/index.ts)
-- [Visitor]<!--(src/Visitor/index.ts)-->
+- [Visitor](src/Visitor/index.ts)
